@@ -1,6 +1,8 @@
-# Welcome to GitHub Desktop!
+# Collaboration Demo Project
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This project is used to practice Git and GitHub collaboration workflows.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-sdsa
+## How to contribute
+- Open an issue
+- Create a branch
+- Submit a pull request
